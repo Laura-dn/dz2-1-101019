@@ -1,0 +1,16 @@
+div {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+h2 {
+    color: #473a89;
+    text-align: center;
+}
+.colorBlue {
+    color: #758798;
+    font-weight: bold
+}
+i {
+    font-size: 0.8em;
+}
